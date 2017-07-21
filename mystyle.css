@@ -1,0 +1,35 @@
+#nav{
+    margin-left: 50px;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    width: 1200px;
+    height: 50px;
+    position: absolute;
+    z-index: 999;
+}
+#n1{
+    float: left;
+}
+.n1-1{
+    float: left;
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+}
+#n2{
+    float: left;
+    line-height: 42px;
+}
+#ca1 img{
+    width: 100%;
+    height: 600px;
+}
+#ca2 img{
+    width: 100%;
+    height: 600px;
+}
+#ca3 img{
+    width: 100%;
+    height: 600px;
+}
